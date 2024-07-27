@@ -1,3 +1,3 @@
 Tis programm cut image or images to many pieces.
 If You need to cut many pictures, You may run ImageCut1 with options in setup.txt(all settings and filelist).
-Output files extension- .png.
+Output files extension- .png
