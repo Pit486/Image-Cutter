@@ -1,0 +1,7 @@
+image files pic1.jpg,pic2.jpg,pic3.jpg
+new file size x 540
+new file size y 745
+start x 86
+start y 107
+column 3
+line 3
